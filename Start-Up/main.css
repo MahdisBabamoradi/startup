@@ -1,0 +1,36 @@
+.home {
+  background-color: #333;
+}
+.home a {
+  background-color: rgba(71, 71, 71, 0.6);
+  margin: 5px;
+  color: whitesmoke;
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+body, html {
+  height: 100%;
+  line-height: 1.8;
+}
+
+header {
+  background-image: url(https://static.vecteezy.com/system/resources/previews/045/984/734/non_2x/laptop-mockup-with-realistic-shadow-and-minimalist-background-psd.png);
+  height: 90vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 25px;
+}
+
+.icon {
+  margin: 15px;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}/*# sourceMappingURL=main.css.map */

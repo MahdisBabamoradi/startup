@@ -1,0 +1,20 @@
+@use '../base' as *;
+body, html {
+  height: 100%;
+  line-height: 1.8;
+}
+header{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/045/984/734/non_2x/laptop-mockup-with-realistic-shadow-and-minimalist-background-psd.png);
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    // text-align: center;
+    margin-top: 25px;
+    
+}
+.icon{
+    margin: 15px;
+   
+    
+}

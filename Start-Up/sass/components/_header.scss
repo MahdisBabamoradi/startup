@@ -1,0 +1,14 @@
+@use '../base' as *;
+.home{
+    background-color: #333;
+    // color: $text-color;
+  
+    a{
+        background-color: rgba(71, 71, 71, 0.6);
+        margin: 5px;
+        color: $text-color;
+        text-decoration: none;
+        padding: 10px;
+        border-radius: 10px;
+    }
+}
